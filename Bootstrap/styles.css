@@ -1,0 +1,14 @@
+/* Page wide styles */
+body{
+    height: 100vh;
+    width: 100vw;
+}
+a{
+    color: #fff;
+}
+.cover-container{
+    background-color: #333;
+    color: #fff;
+    width: 80vw;
+    height: 900px;
+}

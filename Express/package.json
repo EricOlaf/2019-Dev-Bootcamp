@@ -8,5 +8,8 @@
     "start": "node server.js"
   },
   "author": "Eric Olaveson",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.4"
+  }
 }

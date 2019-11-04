@@ -1,0 +1,15 @@
+{
+  "name": "serverchallenge",
+  "version": "1.0.0",
+  "description": "working with basic node/express servers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Eric Olaveson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
